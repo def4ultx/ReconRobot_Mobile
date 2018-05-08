@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "687325215915",
+    "firebase_url": "https://reconrobot-b5b97.firebaseio.com",
+    "project_id": "reconrobot-b5b97",
+    "storage_bucket": "reconrobot-b5b97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687325215915:android:cd238849213ef7ee",
+        "android_client_info": {
+          "package_name": "com.example.diamond.reconrobot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687325215915-rknuhmcp2saavkn2mnipv5djttefmoh4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.diamond.reconrobot",
+            "certificate_hash": "feacccab70dfb0e73c41f985b87f0d8a0a09ceaa"
+          }
+        },
+        {
+          "client_id": "687325215915-62q13st3t1s6lelanpq08tqdti7pvtt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9e1gTGoYzysGlhrjalkmLHW-d_ABarL0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687325215915-62q13st3t1s6lelanpq08tqdti7pvtt4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
